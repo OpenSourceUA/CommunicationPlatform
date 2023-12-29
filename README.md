@@ -1,5 +1,9 @@
 # OpenSourceUA Communication Platform
 
+
+![githead](https://github.com/OpenSourceUA/CommunicationPlatform/assets/1475278/f2066607-e1e7-4af8-9092-f585f39ad440)
+
+
 ## Overview
 
 Welcome to the OpenSourceUA Communication Platform, a dynamic space designed to enhance collaboration, innovation, and knowledge sharing within the Ukrainian technology ecosystem. This README provides an overview of the platform's current status, ongoing work, and our focus on documentation and product design.
